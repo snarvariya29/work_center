@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "905885087105",
+    "project_id": "work-center-272",
+    "storage_bucket": "work-center-272.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905885087105:android:188581bd17d8753809e480",
+        "android_client_info": {
+          "package_name": "com.example.getWork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905885087105-r4an1vpu6j0uaka3892j2r6kcu6etp68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTDGhfnim09D0FtN93mbEaPWzs3p7-ESs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905885087105-r4an1vpu6j0uaka3892j2r6kcu6etp68.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "905885087105-6ckher9mj1umdgtgf7cvaouha9srn7si.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.getWork"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905885087105:android:f583231c05a59ef409e480",
+        "android_client_info": {
+          "package_name": "com.example.get_work"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905885087105-r4an1vpu6j0uaka3892j2r6kcu6etp68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTDGhfnim09D0FtN93mbEaPWzs3p7-ESs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905885087105-r4an1vpu6j0uaka3892j2r6kcu6etp68.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "905885087105-6ckher9mj1umdgtgf7cvaouha9srn7si.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.getWork"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
